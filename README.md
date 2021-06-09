@@ -18,3 +18,11 @@ This script takes your Tinder data (https://account.gotinder.com/data) and gener
     totalAnswers: 15
   }
 ```
+
+## Usage
+
+You need `yarn`. Initialize the repository by running the command `yarn` (inside the directory).
+
+Add the Tinder-extracted JSON file `data.json`.
+
+Run `yarn extract` to obtain results.
